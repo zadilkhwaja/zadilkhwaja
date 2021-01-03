@@ -18,9 +18,7 @@
 <a href="https://kaggle.com/zadilkhwaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zadilkhwaja" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zadilkhwaja&show_icons=true&locale=en&layout=compact" alt="zadilkhwaja" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zadilkhwaja&show_icons=true&locale=en" alt="zadilkhwaja" /></p>
+[![Adil's github stats](https://github-readme-stats.vercel.app/api?username=zadilkhwaja)](https://github.com/zadilkhwaja/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zadilkhwaja&" alt="zadilkhwaja" /></p>
 
