@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on anything that integrates programming and marine science as i share deep passion for preservation of marine biodiversity!
 - 🤔 What i study at University? -Bioengineering!
 - 💬 Ask me about anything!
-- 📄 Know about my experiences: 
+- 📄 My Resume: https://drive.google.com/folderview?id=1418iiGHnyRtaOjgf_WU9C4Zw4lIiX2fQ
 - 📫 How to reach me: zadilkhwaja@gmail.com
 - ⚡ Fun fact: I'm a polyglot, including Spanish, German, Arabic...
 
