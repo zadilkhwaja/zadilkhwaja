@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/zadilkhwaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zadilkhwaja" height="30" width="40" /></a>
 <a href="https://kaggle.com/zadilkhwaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zadilkhwaja" height="30" width="40" /></a>
-<a href="https://youtube.com/Zak Khwaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Zak Khwaja" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCNBecTyaPq1t7bHdHGlSynw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCNBecTyaPq1t7bHdHGlSynw" height="30" width="40" /></a>
 </p>
 
 [![Adil's github stats](https://github-readme-stats.vercel.app/api?username=zadilkhwaja)](https://github.com/zadilkhwaja/github-readme-stats)
