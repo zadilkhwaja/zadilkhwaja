@@ -1,9 +1,9 @@
 ### Hi there! Here is what I'm working on!  👋
 
 
-- 🔭 I’m currently working on Android App Development
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on anything that integrates programming and marine science as i share deep passion for preservation of marine biodiversity!
+- 🔭 I’m currently working on Android App Development and Machine learning.
+- 🌱 I’m currently learning MATLAB
+- 👯 I’m looking to collaborate on anything that integrates programming and biology.
 - 🤔 What i study at University? -Bioengineering!
 - 💬 Ask me about anything!
 - 📄 My Resume: https://drive.google.com/folderview?id=1418iiGHnyRtaOjgf_WU9C4Zw4lIiX2fQ
