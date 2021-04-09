@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Android App Development and Machine learning.
 - 🌱 I’m currently learning MATLAB
 - 👯 I’m looking to collaborate on anything that integrates programming and biology.
-- 🤔 What i study at University? -Bioengineering!
+- 🤔 What i study at University? -Bioengineering! (Biomedical Informatics)
 - 💬 Ask me about anything!
 - 📄 My Resume: https://drive.google.com/folderview?id=1418iiGHnyRtaOjgf_WU9C4Zw4lIiX2fQ
 - 📫 How to reach me: Gmail: zadilkhwaja@gmail.com \
