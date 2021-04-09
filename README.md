@@ -7,8 +7,7 @@
 - 🤔 What i study at University? -Bioengineering!
 - 💬 Ask me about anything!
 - 📄 My Resume: https://drive.google.com/folderview?id=1418iiGHnyRtaOjgf_WU9C4Zw4lIiX2fQ
-- 📫 How to reach me:
- Gmail: zadilkhwaja@gmail.com \
+- 📫 How to reach me: Gmail: zadilkhwaja@gmail.com \
                       Website: https://zadilkhwaja.github.io/Adil_Portfolio/ \
                       Slack Workspace: https://join.slack.com/t/kwafz/shared_invite/zt-oj3b65k5-sW5dNsm38cr6uNqoK6oHzg \
                       Telegram ID: @zakhwaja
