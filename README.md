@@ -13,6 +13,27 @@
                       Telegram ID: @zakhwaja
 - ⚡ Fun fact: I'm a polyglot, including Spanish, German, Arabic...
 
+### Recent side projects:
+### 1)  
+Title: Shortest Path Finding Algorithm.
+
+Description: Implemented A* path finding algorithm (learnt in theory lectures) practically, with a vision of creating a tool to find shortest path between drug and its target in metabolic networks. \
+<img src="https://user-images.githubusercontent.com/46615169/115134964-75cb5180-a032-11eb-91fc-5d18c2c3287f.jpg" width="400" height="400">
+
+### 2)  
+Title: 3D printing
+
+Description: After completing a course by HP life on 3D printing, carrying on a project to design palm orthotics for injured basketball players using TinkerCAD. \
+<img src="https://user-images.githubusercontent.com/46615169/115135189-048c9e00-a034-11eb-9a4f-c619f36a9bab.jpg" width="400" height="400"> \
+<img src="https://user-images.githubusercontent.com/46615169/115135190-06eef800-a034-11eb-9b74-5e2b004b28f4.jpg" width="400" height="400">
+
+### 3)  
+Title: Automatic Water Tap System
+
+Description: Circuit consists of motor, led light source, light detection sensor, batteries etc. When the circuit is 'ON' light from led falls on sensor, when an object(eg: hand) blocks the light the circuit breaks and water is pumped from tap, which prevents wastage of water. \
+<img src="https://user-images.githubusercontent.com/46615169/115135234-82e94000-a034-11eb-86c5-2c06e568eb4c.jpg" width="400" height="400">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" /> </p>
 
 <h3 align="left">Connect with me:</h3>
