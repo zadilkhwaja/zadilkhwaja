@@ -13,7 +13,7 @@
                       Telegram ID: @zakhwaja
 - ⚡ Fun fact: I'm a polyglot, including Spanish, German, Arabic...
 
-### Recent side projects:
+### Recent ongoing side projects:
 ### 1)  
 Title: Shortest Path Finding Algorithm.
 
