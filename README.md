@@ -17,7 +17,7 @@
 ### 1)  
 Title: Shortest Path Finding Algorithm.
 
-Description: Implemented A* path finding algorithm (learnt in theory lectures) practically, with a vision of creating a tool to find shortest path between drug and its target in metabolic networks. \
+Description: Implemented A* path finding algorithm (learnt in theory lectures) practically, with a vision of creating a tool to find shortest path to a specific target in metabolic networks. \
 <img src="https://user-images.githubusercontent.com/46615169/115134964-75cb5180-a032-11eb-91fc-5d18c2c3287f.jpg" width="400" height="400">
 
 ### 2)  
