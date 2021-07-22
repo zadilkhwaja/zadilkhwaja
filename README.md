@@ -22,15 +22,19 @@ Description: Implemented A* path finding algorithm (learnt in theory lectures) p
 ### 2)  
 Title: 3D printing
 
-Description: After completing a course by HP life on 3D printing, carrying on a project to design palm orthotics for injured basketball players using TinkerCAD. \
+A) Description: After completing a course by HP life on 3D printing, carrying on a project to design palm orthotics for injured basketball players using TinkerCAD. \
 <img src="https://user-images.githubusercontent.com/46615169/115135189-048c9e00-a034-11eb-9a4f-c619f36a9bab.jpg" width="400" height="400"> \
-<img src="https://user-images.githubusercontent.com/46615169/115135190-06eef800-a034-11eb-9b74-5e2b004b28f4.jpg" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/46615169/115135190-06eef800-a034-11eb-9b74-5e2b004b28f4.jpg" width="400" height="400"> 
+
+B) Dental Screw: \
+<img src="https://user-images.githubusercontent.com/46615169/126587838-e26fd604-8bff-4e5b-9e36-3cc3035cfefe.png" width="400" height="300"> \
+<img src="https://user-images.githubusercontent.com/46615169/126587358-98052e80-be2f-4051-8128-7cd3e5cc7b37.jpg" width="400" height="350"> 
 
 ### 3)  
 Title: Automatic Water Tap System
 
 Description: Circuit consists of motor, led light source, light detection sensor, batteries etc. When the circuit is 'ON' light from led falls on sensor, when an object(eg: hand) blocks the light the circuit breaks and water is pumped from tap, which prevents wastage of water. \
-<img src="https://user-images.githubusercontent.com/46615169/115135234-82e94000-a034-11eb-86c5-2c06e568eb4c.jpg" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/46615169/115135234-82e94000-a034-11eb-86c5-2c06e568eb4c.jpg" width="400" height="500">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" /> </p>
