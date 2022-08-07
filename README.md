@@ -1,25 +1,41 @@
-### Hi there! Here is what I'm working on!  👋
+## Hey, I'm Adil Khwaja - **[Learn more about me](https://www.linkedin.com/in/zadilkhwaja)** 👋
 
+
+### Here is what I'm working on!  
 
 - 🔭 I’m currently working on Web Development and Machine learning.
 - 🤔 What is my highest qualification? - Integrated Masters of Technology in Bioengineering! 
-- 📄 View my Resume on LinkedIn: https://www.linkedin.com/in/zadilkhwaja
-- 📫 How to reach me: Gmail: zadilkhwaja@gmail.com \
-                      Website: https://zadilkhwaja.github.io/Adil_Portfolio/ \
-                      Telegram ID: https://t.me/zakhwaja
-- ⚡ Fun fact: I'm a polyglot, including Spanish, German, Arabic...
+- 📄 View my Resume on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/Adil_Khwaja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-patil-b4134362/)](https://www.linkedin.com/in/zadilkhwaja)
+- 💬 Ask me anything, I'm looking forward to talk to you;
+- 📫 Feel free to email me if you have any question. 
+- ⚡ Fun fact: I'm a polyglot, including Spanish, Arabic...
 
+
+### Languages and Tools I Use
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=django&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3776AB.svg?&style=flat-square&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F05032.svg?&style=flat-square&logo=HTML5&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F7DF1E.svg?&style=flat-square&logo=powerbi&logoColor=white)
+
+
+### Contact Me
+
+- Personal website : [![website](https://img.shields.io/badge/Adil_Portfolio-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://zadilkhwaja.github.io/Adil_Portfolio/)
+- Email : [![Email](https://img.shields.io/badge/zadilkhwaja@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zadilkhwaja@gmail.com)
+- Telegram : [![Telegram](https://img.shields.io/badge/zakhwaja-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zakhwaja)
+
+
+### Github Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zadilkhwaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zadilkhwaja" height="30" width="40" /></a>
-<a href="https://kaggle.com/zadilkhwaja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zadilkhwaja" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCNBecTyaPq1t7bHdHGlSynw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCNBecTyaPq1t7bHdHGlSynw" height="30" width="40" /></a>
-</p>
 
 [![Adil's github stats](https://github-readme-stats.vercel.app/api?username=zadilkhwaja)](https://github.com/zadilkhwaja/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zadilkhwaja&" alt="zadilkhwaja" /></p>
-
