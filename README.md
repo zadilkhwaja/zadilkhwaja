@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on Web Development and Machine learning.
 - 🤔 What is my highest qualification? - Integrated Masters of Technology in Bioengineering! 
 - 📄 View my Resume on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/Adil_Khwaja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-patil-b4134362/)](https://www.linkedin.com/in/zadilkhwaja)
+- 📚 Book I am currently reading: **[SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)**
 - 💬 Ask me anything, I'm looking forward to talk to you;
 - 📫 Feel free to email me if you have any question. 
 - ⚡ Fun fact: I'm a polyglot, including Spanish, Arabic...
