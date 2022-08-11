@@ -11,6 +11,7 @@
 - 📫 Feel free to email me if you have any question 
 - ⚡ Fun fact: I'm a polyglot, including Spanish, Arabic...
 
+---
 
 ### Languages and Tools I Use
 
@@ -25,6 +26,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-F05032.svg?&style=flat-square&logo=HTML5&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F7DF1E.svg?&style=flat-square&logo=powerbi&logoColor=white)
 
+---
 
 ### Contact Me
 
@@ -32,11 +34,16 @@
 - Email : [![Email](https://img.shields.io/badge/zadilkhwaja@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zadilkhwaja@gmail.com)
 - Telegram : [![Telegram](https://img.shields.io/badge/zakhwaja-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zakhwaja)
 
+---
 
-### Github Stats
+<details>
+  <summary>:zap: Github Stats</summary>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" /> </p>
 
 [![Adil's github stats](https://github-readme-stats.vercel.app/api?username=zadilkhwaja)](https://github.com/zadilkhwaja/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zadilkhwaja&" alt="zadilkhwaja" /></p>
+
+</details>
