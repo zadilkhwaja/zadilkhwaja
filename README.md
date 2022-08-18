@@ -1,11 +1,12 @@
 ## Hey, I'm Adil Khwaja - **[Learn more about me](https://www.linkedin.com/in/zadilkhwaja)** 👋
 
+[View my Resume](https://drive.google.com/file/d/1O-PjFQELdsFOmSa7kWM6l6UC6P9248sX/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook)
+
 
 ### Here is what I'm working on!  
 
 - 🔭 I’m currently working on Web Development and Machine learning.
 - 🤔 What is my highest qualification? - Integrated Masters of Technology in Bioengineering! 
-- 📄 View my Resume on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/Adil_Khwaja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-patil-b4134362/)](https://www.linkedin.com/in/zadilkhwaja)
 - 📚 Books I am currently reading: **[SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)** , **[DSA - Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)**
 - 💬 Ask me anything, I'm looking forward to talk to you!
 - 📫 Feel free to email me if you have any question 
@@ -30,9 +31,11 @@
 
 ### Contact Me
 
-- Personal website : [![website](https://img.shields.io/badge/Adil_Portfolio-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://zadilkhwaja.github.io/Adil_Portfolio/)
-- Email : [![Email](https://img.shields.io/badge/zadilkhwaja@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zadilkhwaja@gmail.com)
-- Telegram : [![Telegram](https://img.shields.io/badge/zakhwaja-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zakhwaja)
+[![linkedin](https://img.shields.io/badge/-@zadilkhwaja-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=darkblue&color=161616)](https://www.linkedin.com/in/zadilkhwaja)  
+[![website](https://img.shields.io/badge/-AdilKhwaja-161616?style=flat-square&labelColor=161616&logo=icloud&logoColor=white&color=161616)](https://zadilkhwaja.github.io/Adil_Portfolio/) \
+[![Email](https://img.shields.io/badge/zadilkhwaja@gmail.com-161616?style=flat-square&labelColor=161616&logo=gmail&logoColor=red&color=161616)](mailto:zadilkhwaja@gmail.com)\
+[![Telegram](https://img.shields.io/badge/@zakhwaja-161616?style=flat-square&labelColor=161616&logo=telegram&logoColor=white&color=161616)](https://t.me/zakhwaja) \
+![discord](https://img.shields.io/badge/-@zakh%236328-161616?style=flat-square&labelColor=161616&logo=Discord&logoColor=purple&color=161616)
 
 ---
 
