@@ -31,11 +31,12 @@
 
 ### Contact Me
 
-[![linkedin](https://img.shields.io/badge/-@zadilkhwaja-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=darkblue&color=161616)](https://www.linkedin.com/in/zadilkhwaja)  
-[![website](https://img.shields.io/badge/-AdilKhwaja-161616?style=flat-square&labelColor=161616&logo=icloud&logoColor=white&color=161616)](https://zadilkhwaja.github.io/Adil_Portfolio/) \
-[![Email](https://img.shields.io/badge/zadilkhwaja@gmail.com-161616?style=flat-square&labelColor=161616&logo=gmail&logoColor=red&color=161616)](mailto:zadilkhwaja@gmail.com)\
-[![Telegram](https://img.shields.io/badge/@zakhwaja-161616?style=flat-square&labelColor=161616&logo=telegram&logoColor=white&color=161616)](https://t.me/zakhwaja) \
+[![linkedin](https://img.shields.io/badge/-@zadilkhwaja-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=darkblue&color=161616)](https://www.linkedin.com/in/zadilkhwaja)
 ![discord](https://img.shields.io/badge/-@zakh%236328-161616?style=flat-square&labelColor=161616&logo=Discord&logoColor=purple&color=161616)
+[![website](https://img.shields.io/badge/-AdilKhwaja-161616?style=flat-square&labelColor=161616&logo=icloud&logoColor=white&color=161616)](https://zadilkhwaja.github.io/Adil_Portfolio/) 
+[![Email](https://img.shields.io/badge/zadilkhwaja@gmail.com-161616?style=flat-square&labelColor=161616&logo=gmail&logoColor=red&color=161616)](mailto:zadilkhwaja@gmail.com)
+[![Telegram](https://img.shields.io/badge/@zakhwaja-161616?style=flat-square&labelColor=161616&logo=telegram&logoColor=white&color=161616)](https://t.me/zakhwaja) 
+[![Reddit](https://img.shields.io/badge/@zakhreef-161616?style=flat-square&labelColor=161616&logo=reddit&logoColor=orange&color=161616)](https://www.reddit.com/u/zakhreef?utm_medium=android_app&utm_source=share)
 
 ---
 
