@@ -1,4 +1,4 @@
-## Hey, I'm Adil Khwaja - **[Learn more about me](https://www.linkedin.com/in/zadilkhwaja)** 👋
+## Hey, I'm Adil Khwaja - **[Learn more about me](https://www.linkedin.com/in/zadilkhwaja)** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
 
 [View my Resume](https://drive.google.com/file/d/1O-PjFQELdsFOmSa7kWM6l6UC6P9248sX/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook)
 
