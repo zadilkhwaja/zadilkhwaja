@@ -1,4 +1,4 @@
-# ![Hi, I'm Adil](https://bam-readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Adil!👋;+;+)
+# ![Hi, I'm Adil](https://bam-readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Adil!👋;+;+)
 
 [View my Resume 📝](https://drive.google.com/file/d/1O-PjFQELdsFOmSa7kWM6l6UC6P9248sX/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook)
 
@@ -66,6 +66,6 @@
 </div>
 </details>
 
+</div>
 
-
-
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
