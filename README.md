@@ -38,7 +38,7 @@
 [![website](https://img.shields.io/badge/-Website-000?style=flat-square&labelColor=161616&logo=Google-Chrome&logoColor=yellow)](https://zadilkhwaja.github.io/Adil_Portfolio/) 
 [![Email](https://img.shields.io/badge/Gmail-000?style=flat-square&labelColor=161616&logo=gmail&logoColor=red)](mailto:zadilkhwaja@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&labelColor=161616&logo=telegram&logoColor=white)](https://t.me/zakhwaja) 
-[![discord](https://img.shields.io/badge/-Discord-000?style=flat-square&labelColor=161616&logo=Discord&logoColor=darkblue)](https://discord.com/users/#6328)
+[![discord](https://img.shields.io/badge/-Discord-000?style=flat-square&labelColor=161616&logo=Discord&logoColor=738adb)](https://discord.com/users/#6328)
 
 ---
 
