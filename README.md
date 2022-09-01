@@ -43,28 +43,19 @@
 ---
 
 
-### :octocat:&nbsp;Github Stats
+### :octocat:&nbsp; Misc.
 
 <details>
-<summary>General Stats</summary>
+<summary>Github Stats</summary>
 <br />
-<img href="https://github.com/zadilkhwaja/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=zadilkhwaja&show_icons=true&theme=midnight-purple&hide_border=true" />
-</details>
 
-<details>
-<summary>Streak Stats</summary>
+<img href="https://github.com/zadilkhwaja/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=zadilkhwaja&show_icons=true&theme=midnight-purple&hide_border=true" />
+
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zadilkhwaja&theme=midnight-purple&hide_border=true" alt="zadilkhwaja" />
-</details>
 
-<details>
-<summary>Profile visitors</summary>
-<div align="left">
 <br />
-    <img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" />
 </details>
-
-</div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
