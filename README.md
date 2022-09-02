@@ -34,11 +34,22 @@
 
 ### 📺 Contact Me
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/zadilkhwaja)
-[![website](https://img.shields.io/badge/-Website-000?style=flat-square&labelColor=161616&logo=Google-Chrome&logoColor=yellow)](https://zadilkhwaja.github.io/Adil_Portfolio/) 
-[![Email](https://img.shields.io/badge/Gmail-000?style=flat-square&labelColor=161616&logo=gmail&logoColor=red)](mailto:zadilkhwaja@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&labelColor=161616&logo=telegram&logoColor=white)](https://t.me/zakhwaja) 
-[![discord](https://img.shields.io/badge/-Discord-000?style=flat-square&labelColor=161616&logo=Discord&logoColor=738adb)](https://discord.com/users/#6328)
+<a 
+  href="https://www.linkedin.com/in/zadilkhwaja/">
+    <img width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="mailto:zadilkhwaja@gmail.com">
+  <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>&ensp;
+  <a href="https://t.me/zakhwaja">
+    <img width="25px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  </a>&ensp;
+  <a href="https://discord.com/users/#6328">
+    <img width="25px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" />
+  </a>&ensp;
+  <a href="https://zadilkhwaja.github.io/Adil_Portfolio/">
+  <img width="25px" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" />
+  </a>
 
 ---
 
