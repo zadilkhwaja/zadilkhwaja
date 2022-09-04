@@ -60,7 +60,7 @@
 <summary>Github Stats</summary>
 <br />
 
-<img href="https://github.com/zadilkhwaja/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=zadilkhwaja&show_icons=true&theme=midnight-purple&hide_border=true" />
+<img href="https://github.com/zadilkhwaja/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=zadilkhwaja&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&hide=stars" />
 
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zadilkhwaja&theme=midnight-purple&hide_border=true" alt="zadilkhwaja" />
