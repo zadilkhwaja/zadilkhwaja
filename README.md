@@ -60,13 +60,13 @@
 <summary>Github Stats</summary>
 <br />
 
-<img href="https://github.com/zadilkhwaja/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=zadilkhwaja&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&hide=stars" />
+<img href="https://github.com/zadilkhwaja/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=zadilkhwaja&show_icons=true&theme=react&hide_border=true&count_private=true&hide=stars" />
 
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zadilkhwaja&theme=midnight-purple&hide_border=true" alt="zadilkhwaja" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zadilkhwaja&theme=react&hide_border=true" alt="zadilkhwaja" />
 
 <br />
 <img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" />
 </details>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
