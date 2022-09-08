@@ -20,15 +20,21 @@
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&labelColor=161616&logo=Git&logoColor=F05032)
 ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-000.svg?style=flat-square&labelColor=161616&logo=java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&labelColor=161616&logo=JavaScript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=flat-square&labelColor=161616&logo=bootstrap&logoColor=23563D7C)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?&style=flat-square&labelColor=161616&logo=database&logoColor=025E8C)
 ![Django](https://img.shields.io/badge/Django-000?&style=flat-square&labelColor=161616&logo=django&logoColor=006400)
 ![CSS3](https://img.shields.io/badge/CSS3-000?&style=flat-square&labelColor=161616&logo=CSS3&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-000?&style=flat-square&labelColor=161616&logo=HTML5&logoColor=F05032)
-![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&labelColor=161616&logo=powerbi&logoColor=F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&style=flat-square&labelColor=161616&logo=mongodb&logoColor=006400)
+
+<details>
+<summary>View more</summary>
+<br />
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=flat-square&labelColor=161616&logo=bootstrap&logoColor=23563D7C)
+![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&labelColor=161616&logo=powerbi&logoColor=F7DF1E)
 ![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&labelColor=161616&logo=markdown&logoColor=006400)
 ![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&labelColor=161616&logo=sass&logoColor=FFC0CB)
+</details>
 
 ---
 
