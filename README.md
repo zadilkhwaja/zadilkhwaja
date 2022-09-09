@@ -34,6 +34,7 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&labelColor=161616&logo=powerbi&logoColor=F7DF1E)
 ![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&labelColor=161616&logo=markdown&logoColor=006400)
 ![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&labelColor=161616&logo=sass&logoColor=FFC0CB)
+![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=flat-square&labelColor=161616&logo=overleaf&logoColor=006400)
 </details>
 
 ---
