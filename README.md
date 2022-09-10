@@ -24,7 +24,7 @@
 ![Django](https://img.shields.io/badge/Django-000?&style=flat-square&labelColor=161616&logo=django&logoColor=006400)
 ![CSS3](https://img.shields.io/badge/CSS3-000?&style=flat-square&labelColor=161616&logo=CSS3&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-000?&style=flat-square&labelColor=161616&logo=HTML5&logoColor=F05032)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?&style=flat-square&labelColor=161616&logo=mongodb&logoColor=006400)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?&style=flat-square&labelColor=161616&logo=mongodb&logoColor=13aa52)
 
 <details>
 <summary>View more</summary>
@@ -32,8 +32,9 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=flat-square&labelColor=161616&logo=bootstrap&logoColor=23563D7C)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&labelColor=161616&logo=powerbi&logoColor=F7DF1E)
-![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&labelColor=161616&logo=markdown&logoColor=006400)
+![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&labelColor=161616&logo=markdown&logoColor=13aa52)
 ![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&labelColor=161616&logo=sass&logoColor=FFC0CB)
+![Hugo](https://img.shields.io/badge/Hugo-000?&style=flat-square&labelColor=161616&logo=Hugo&logoColor=23563D7C)
 ![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=flat-square&labelColor=161616&logo=overleaf&logoColor=006400)
 </details>
 
