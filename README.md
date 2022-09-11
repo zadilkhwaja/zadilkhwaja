@@ -33,6 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=flat-square&labelColor=161616&logo=bootstrap&logoColor=23563D7C)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&labelColor=161616&logo=powerbi&logoColor=F7DF1E)
 ![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&labelColor=161616&logo=markdown&logoColor=13aa52)
+![MATLAB](https://img.shields.io/badge/MatLab-000?&style=flat-square&labelColor=161616&logo=MATLAB&logoColor=006400)
 ![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&labelColor=161616&logo=sass&logoColor=FFC0CB)
 ![Hugo](https://img.shields.io/badge/Hugo-000?&style=flat-square&labelColor=161616&logo=Hugo&logoColor=23563D7C)
 ![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=flat-square&labelColor=161616&logo=overleaf&logoColor=006400)
