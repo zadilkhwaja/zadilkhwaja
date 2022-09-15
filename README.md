@@ -16,26 +16,26 @@
 
 ### 👨‍💻 Languages and Tools I Use
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&labelColor=161616&logo=Python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&labelColor=161616&logo=Git&logoColor=F05032)
-![Java](https://custom-icon-badges.herokuapp.com/badge/Java-000.svg?style=flat-square&labelColor=161616&logo=java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&labelColor=161616&logo=JavaScript&logoColor=F7DF1E)
-![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?&style=flat-square&labelColor=161616&logo=database&logoColor=025E8C)
-![Django](https://img.shields.io/badge/Django-000?&style=flat-square&labelColor=161616&logo=django&logoColor=006400)
-![CSS3](https://img.shields.io/badge/CSS3-000?&style=flat-square&labelColor=161616&logo=CSS3&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-000?&style=flat-square&labelColor=161616&logo=HTML5&logoColor=F05032)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?&style=flat-square&labelColor=161616&logo=mongodb&logoColor=13aa52)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=Python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=Git&logoColor=F05032)
+![Java](https://custom-icon-badges.herokuapp.com/badge/Java-000.svg?style=flat-square&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?&style=flat-square&logo=database&logoColor=025E8C)
+![Django](https://img.shields.io/badge/Django-000?&style=flat-square&logo=django&logoColor=006400)
+![CSS3](https://img.shields.io/badge/CSS3-000?&style=flat-square&logo=CSS3&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-000?&style=flat-square&logo=HTML5&logoColor=F05032)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?&style=flat-square&logo=mongodb&logoColor=13aa52)
 
 <details>
 <summary>View more</summary>
 <br />
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=flat-square&labelColor=161616&logo=bootstrap&logoColor=23563D7C)
-![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&labelColor=161616&logo=powerbi&logoColor=F7DF1E)
-![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&labelColor=161616&logo=markdown&logoColor=13aa52)
-![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&labelColor=161616&logo=sass&logoColor=FFC0CB)
-![Hugo](https://img.shields.io/badge/Hugo-000?&style=flat-square&labelColor=161616&logo=Hugo&logoColor=23563D7C)
-![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=flat-square&labelColor=161616&logo=overleaf&logoColor=006400)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=flat-square&logo=bootstrap&logoColor=23563D7C)
+![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&logo=powerbi&logoColor=F7DF1E)
+![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&logo=markdown&logoColor=13aa52)
+![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&logo=sass&logoColor=FFC0CB)
+![Hugo](https://img.shields.io/badge/Hugo-000?&style=flat-square&logo=Hugo&logoColor=23563D7C)
+![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=flat-square&logo=overleaf&logoColor=006400)
 </details>
 
 ---
