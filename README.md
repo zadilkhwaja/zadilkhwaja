@@ -32,8 +32,10 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=flat-square&logo=bootstrap&logoColor=23563D7C)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&logo=powerbi&logoColor=F7DF1E)
+![Pandas](https://img.shields.io/badge/Pandas-000?&style=flat-square&logo=pandas&logoColor=00008B)
 ![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&logo=markdown&logoColor=13aa52)
 ![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&logo=sass&logoColor=FFC0CB)
+![JetBrains](https://img.shields.io/badge/JetBrains-000?&style=flat-square&logo=JetBrains&logoColor=23563D7C)
 ![Hugo](https://img.shields.io/badge/Hugo-000?&style=flat-square&logo=Hugo&logoColor=23563D7C)
 ![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=flat-square&logo=overleaf&logoColor=006400)
 </details>
