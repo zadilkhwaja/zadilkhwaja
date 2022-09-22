@@ -36,6 +36,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&logo=markdown&logoColor=13aa52)
 ![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&logo=sass&logoColor=FFC0CB)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000?&style=flat-square&logo=JetBrains&logoColor=23563D7C)
+![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=flat-square&logo=VisualStudio&logoColor=3776AB)
 ![Hugo](https://img.shields.io/badge/Hugo-000?&style=flat-square&logo=Hugo&logoColor=23563D7C)
 ![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=flat-square&logo=overleaf&logoColor=006400)
 </details>
