@@ -39,6 +39,8 @@
 ![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=flat-square&logo=VisualStudio&logoColor=3776AB)
 ![Hugo](https://img.shields.io/badge/Hugo-000?&style=flat-square&logo=Hugo&logoColor=23563D7C)
 ![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=flat-square&logo=overleaf&logoColor=006400)
+![MSOffice](https://img.shields.io/badge/MSOffice-000?&style=flat-square&logo=MicrosoftOffice&logoColor=F05032)
+![Arduino](https://img.shields.io/badge/Arduino-000?&style=flat-square&logo=Arduino&logoColor=3776AB)
 </details>
 
 ---
