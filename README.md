@@ -82,4 +82,12 @@
 <img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" />
 </details>
 
+<details>
+<summary>Hactoberfest Holopin</summary>
+<br />
+
+[![@zadilkhwaja's Holopin board](https://holopin.io/api/user/board?user=zadilkhwaja)](https://holopin.io/@zadilkhwaja)
+</details>
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
+
