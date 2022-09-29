@@ -61,9 +61,9 @@
     <img width="25px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" />
   </a>&ensp;
   <a href="https://zadilkhwaja.github.io/Adil_Portfolio/">
-  <img width="25px" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" />
+  <img width="25px" src="https://www.vectorlogo.zone/logos/rss/rss-icon.svg" />
   </a>
-
+  
 ---
 
 
