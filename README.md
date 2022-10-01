@@ -34,6 +34,7 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&logo=powerbi&logoColor=F7DF1E)
 ![Pandas](https://img.shields.io/badge/Pandas-000?&style=flat-square&logo=pandas&logoColor=00008B)
 ![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&logo=markdown&logoColor=13aa52)
+![Json](https://img.shields.io/badge/Json-000?style=flat&logo=Json&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&logo=sass&logoColor=FFC0CB)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000?&style=flat-square&logo=JetBrains&logoColor=23563D7C)
 ![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=flat-square&logo=VisualStudio&logoColor=3776AB)
