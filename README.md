@@ -12,7 +12,7 @@
 - 🏕️ In my free time I love the [outdoors](https://maps.app.goo.gl/QbvpVnF2UMmkx4Fq6), being active, as well as connecting with friends and family.
 - ☕️ Always up for coffee if you're around! 
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 👨‍💻 Languages and Tools I Use
 
@@ -69,7 +69,6 @@
   
 ---
 
-
 ### :octocat:&nbsp; Misc.
 
 <details>
@@ -96,3 +95,4 @@
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
