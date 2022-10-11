@@ -16,34 +16,34 @@
 
 ### 👨‍💻 Languages and Tools I Use
 
-![Python](https://img.shields.io/badge/Python-000?style=plastic&logo=Python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-000?style=plastic&logo=Git&logoColor=F05032)
-![Java](https://custom-icon-badges.herokuapp.com/badge/Java-000.svg?style=plastic&logo=java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=plastic&logo=JavaScript&logoColor=F7DF1E)
-![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?&style=plastic&logo=database&logoColor=025E8C)
-![Django](https://img.shields.io/badge/Django-000?&style=plastic&logo=django&logoColor=006400)
-![CSS3](https://img.shields.io/badge/CSS3-000?&style=plastic&logo=CSS3&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-000?&style=plastic&logo=HTML5&logoColor=F05032)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?&style=plastic&logo=mongodb&logoColor=13aa52)
+![Python](https://img.shields.io/badge/Python-05122A?style=plastic&logo=Python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
+![Java](https://custom-icon-badges.herokuapp.com/badge/Java-05122A.svg?style=plastic&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=plastic&logo=JavaScript&logoColor=F7DF1E)
+![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-05122A?&style=plastic&logo=database&logoColor=025E8C)
+![Django](https://img.shields.io/badge/Django-05122A?&style=plastic&logo=django&logoColor=006400)
+![CSS3](https://img.shields.io/badge/CSS3-05122A?&style=plastic&logo=CSS3&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-05122A?&style=plastic&logo=HTML5&logoColor=F05032)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?&style=plastic&logo=mongodb&logoColor=13aa52)
 
 <details>
 <summary>View more</summary>
 <br />
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=flat-square&logo=bootstrap&logoColor=23563D7C)
-![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=flat-square&logo=powerbi&logoColor=F7DF1E)
-![Pandas](https://img.shields.io/badge/Pandas-000?&style=flat-square&logo=pandas&logoColor=00008B)
-![Markdown](https://img.shields.io/badge/Markdown-000?&style=flat-square&logo=markdown&logoColor=13aa52)
-![Json](https://img.shields.io/badge/Json-000?style=flat&logo=Json&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-000?&style=flat-square&logo=sass&logoColor=FFC0CB)
-![JetBrains](https://img.shields.io/badge/JetBrains-000?&style=flat-square&logo=JetBrains&logoColor=23563D7C)
-![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=flat-square&logo=VisualStudio&logoColor=3776AB)
-![Hugo](https://img.shields.io/badge/Hugo-000?&style=flat-square&logo=Hugo&logoColor=23563D7C)
-![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=flat-square&logo=overleaf&logoColor=006400)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?&style=flat-square&logo=kotlin&logoColor=23563D7C)
-![Anaconda](https://img.shields.io/badge/Anaconda-000?&style=flat-square&logo=Anaconda&logoColor=006400)
-![MSOffice](https://img.shields.io/badge/MSOffice-000?&style=flat-square&logo=MicrosoftOffice&logoColor=F05032)
-![Arduino](https://img.shields.io/badge/Arduino-000?&style=flat-square&logo=Arduino&logoColor=3776AB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=plastic&logo=bootstrap&logoColor=23563D7C)
+![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=plastic&logo=powerbi&logoColor=F7DF1E)
+![Pandas](https://img.shields.io/badge/Pandas-000?&style=plastic&logo=pandas&logoColor=00008B)
+![Markdown](https://img.shields.io/badge/Markdown-000?&style=plastic&logo=markdown&logoColor=13aa52)
+![Json](https://img.shields.io/badge/Json-000?&style=plastic&logo=Json&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-000?&style=plastic&logo=sass&logoColor=FFC0CB)
+![JetBrains](https://img.shields.io/badge/JetBrains-000?&style=plastic&logo=JetBrains&logoColor=23563D7C)
+![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=plastic&logo=VisualStudio&logoColor=3776AB)
+![Hugo](https://img.shields.io/badge/Hugo-000?&style=plastic&logo=Hugo&logoColor=23563D7C)
+![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=plastic&logo=overleaf&logoColor=006400)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?&style=plastic&logo=kotlin&logoColor=23563D7C)
+![Anaconda](https://img.shields.io/badge/Anaconda-000?&style=plastic&logo=Anaconda&logoColor=006400)
+![MSOffice](https://img.shields.io/badge/MSOffice-000?&style=plastic&logo=MicrosoftOffice&logoColor=F05032)
+![Arduino](https://img.shields.io/badge/Arduino-000?&style=plastic&logo=Arduino&logoColor=3776AB)
 </details>
 
 ---
