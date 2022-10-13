@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?&style=plastic&logo=mongodb&logoColor=13aa52)
 
 <details>
-<summary>View more</summary>
+<summary>View More</summary>
 <br />
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=plastic&logo=bootstrap&logoColor=23563D7C)
@@ -85,6 +85,15 @@
 <img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" />
 <a href="https://github.com/zadilkhwaja/weather_app_django/network/members"><img src="https://img.shields.io/github/forks/zadilkhwaja/weather_app_django" alt="Forks Badge"/></a>
 <a href="https://github.com/zadilkhwaja/studentdbms/issues"><img src="https://img.shields.io/github/issues/zadilkhwaja/studentdbms" alt="Issues Badge"/></a>
+<br />
+<br />
+<details>
+<summary>More Metrics 🚀</summary>
+<br />
+<!--START_SECTION:waka-->
+Updating soon!
+<!--END_SECTION:waka-->
+</details>
 </details>
 
 <details>
