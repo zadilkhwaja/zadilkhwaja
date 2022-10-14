@@ -90,9 +90,7 @@
 <details>
 <summary>More Metrics 🚀</summary>
 <br />
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+Updating soon!
 </details>
 </details>
 
