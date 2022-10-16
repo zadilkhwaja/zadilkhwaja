@@ -67,7 +67,10 @@
   <a href="https://zadilkhwaja.github.io/Adil_Portfolio/">
   <img width="25px" src="https://www.vectorlogo.zone/logos/rss/rss-icon.svg" />
   </a>
-  
+  <a href="https://www.kaggle.com/zadilkhwaja">
+  <img width="25px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
+  </a>
+
 ---
 
 ### :octocat:&nbsp; Misc.
