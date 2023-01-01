@@ -94,7 +94,9 @@
 <details>
 <summary>More Metrics 🚀</summary>
 <br />
-Updating soon!
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=zadilkhwaja&theme=react&hide_border=true&area=true)
+
 </details>
 </details>
 
