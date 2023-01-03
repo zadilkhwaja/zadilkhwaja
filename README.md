@@ -24,6 +24,7 @@
 ![Django](https://img.shields.io/badge/Django-05122A?&style=plastic&logo=django&logoColor=006400)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?&style=plastic&logo=CSS3&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?&style=plastic&logo=HTML5&logoColor=F05032)
+![Plotly](https://img.shields.io/badge/Plotly-05122A?style=plastic&logo=Plotly&logoColor=23563D7C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?&style=plastic&logo=mongodb&logoColor=13aa52)
 
 <details>
