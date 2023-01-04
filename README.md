@@ -96,8 +96,9 @@
 <summary>More Metrics 🚀</summary>
 <br />
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=zadilkhwaja&theme=react&hide_border=true&area=true)
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=zadilkhwaja&theme=react&hide_border=true)
+<br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zadilkhwaja&theme=tokyonight)
 </details>
 </details>
 
