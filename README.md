@@ -18,12 +18,12 @@
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=plastic&logo=Python&logoColor=3776AB)
 ![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
-![Java](https://custom-icon-badges.herokuapp.com/badge/Java-05122A.svg?style=plastic&logo=java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=plastic&logo=JavaScript&logoColor=F7DF1E)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-05122A?&style=plastic&logo=database&logoColor=025E8C)
 ![Django](https://img.shields.io/badge/Django-05122A?&style=plastic&logo=django&logoColor=006400)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?&style=plastic&logo=CSS3&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?&style=plastic&logo=HTML5&logoColor=F05032)
+![Java](https://custom-icon-badges.herokuapp.com/badge/Java-05122A.svg?style=plastic&logo=java&logoColor=007396)
 ![Plotly](https://img.shields.io/badge/Plotly-05122A?style=plastic&logo=Plotly&logoColor=23563D7C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?&style=plastic&logo=mongodb&logoColor=13aa52)
 
@@ -33,17 +33,17 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&style=plastic&logo=bootstrap&logoColor=23563D7C)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=plastic&logo=powerbi&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/Json-000?&style=plastic&logo=Json&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-000?&style=plastic&logo=pandas&logoColor=00008B)
 ![Markdown](https://img.shields.io/badge/Markdown-000?&style=plastic&logo=markdown&logoColor=13aa52)
-![Json](https://img.shields.io/badge/Json-000?&style=plastic&logo=Json&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?&style=plastic&logo=sass&logoColor=FFC0CB)
+![Hugo](https://img.shields.io/badge/Hugo-000?&style=plastic&logo=Hugo&logoColor=23563D7C)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000?&style=plastic&logo=JetBrains&logoColor=23563D7C)
 ![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=plastic&logo=VisualStudio&logoColor=3776AB)
-![Hugo](https://img.shields.io/badge/Hugo-000?&style=plastic&logo=Hugo&logoColor=23563D7C)
 ![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=plastic&logo=overleaf&logoColor=006400)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?&style=plastic&logo=kotlin&logoColor=23563D7C)
 ![Androidstudio](https://img.shields.io/badge/AndroidStudio-000?&style=plastic&logo=Androidstudio&logoColor=23563D7C)
 ![Anaconda](https://img.shields.io/badge/Anaconda-000?&style=plastic&logo=Anaconda&logoColor=006400)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?&style=plastic&logo=kotlin&logoColor=23563D7C)
 ![MSOffice](https://img.shields.io/badge/MSOffice-000?&style=plastic&logo=MicrosoftOffice&logoColor=F05032)
 ![Arduino](https://img.shields.io/badge/Arduino-000?&style=plastic&logo=Arduino&logoColor=23563D7C)
 </details>
@@ -96,7 +96,7 @@
 <summary>More Metrics 🚀</summary>
 <br />
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=zadilkhwaja&theme=react&hide_border=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=zadilkhwaja&theme=react-dark&hide_border=true)
 <br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zadilkhwaja&theme=tokyonight)
 </details>
