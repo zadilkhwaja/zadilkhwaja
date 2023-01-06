@@ -40,12 +40,12 @@
 ![Hugo](https://img.shields.io/badge/Hugo-000?&style=plastic&logo=Hugo&logoColor=23563D7C)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000?&style=plastic&logo=JetBrains&logoColor=23563D7C)
 ![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=plastic&logo=VisualStudio&logoColor=3776AB)
-![Overleaf](https://img.shields.io/badge/Overleaf-000?&style=plastic&logo=overleaf&logoColor=006400)
 ![Androidstudio](https://img.shields.io/badge/AndroidStudio-000?&style=plastic&logo=Androidstudio&logoColor=23563D7C)
 ![Anaconda](https://img.shields.io/badge/Anaconda-000?&style=plastic&logo=Anaconda&logoColor=006400)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?&style=plastic&logo=kotlin&logoColor=23563D7C)
 ![MSOffice](https://img.shields.io/badge/MSOffice-000?&style=plastic&logo=MicrosoftOffice&logoColor=F05032)
 ![Arduino](https://img.shields.io/badge/Arduino-000?&style=plastic&logo=Arduino&logoColor=23563D7C)
+![LaTeX](https://img.shields.io/badge/LaTeX-000?&style=plastic&logo=latex&logoColor=23563D7C)
 </details>
 
 ---
