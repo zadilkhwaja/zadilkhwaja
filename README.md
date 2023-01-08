@@ -98,9 +98,11 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=zadilkhwaja&theme=react-dark&hide_border=true)
 <br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zadilkhwaja&theme=tokyonight)
+<br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zadilkhwaja&theme=tokyonight)
 <br />
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zadilkhwaja&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zadilkhwaja&theme=tokyonight&utcOffset=5)
 </details>
 </details>
 
