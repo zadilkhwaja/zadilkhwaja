@@ -1,6 +1,6 @@
 # ![Hi, I'm Adil](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Adil!👋🏼;+;+)
 
-[View my Resume 📝](https://drive.google.com/file/d/1Bvz4dD7ugJvE9jwkD77aQdnSg1ew4BHx/view?usp=drivesdk)
+[View my Resume 📝](https://drive.google.com/file/d/1yDH9e2HEy_7lfsD24Lixbbx68m7U9ESY/view?usp=drivesdk)
 
 
 ### 🧰 Here is what I'm working on!  
