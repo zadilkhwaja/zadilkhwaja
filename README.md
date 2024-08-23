@@ -6,7 +6,6 @@
 ### 🧰 Here is what I'm working on!  
 
 - 🔭 I’m currently acquiring skills in React, Docker and Retrieval-Augmented Generation.
-- 🤔 What is my highest qualification? - Integrated Master of Technology in [Bioengineering](https://mitbio.edu.in/) with concentration in computer programming! 
 - 📚 Books I am currently reading: [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering) , [DSA - Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
 - ⚡ Fun fact: I'm a polyglot, including Spanish, Arabic...Check my Duolingo [stats](https://www.duolingo.com/profile/AdilKhwaja?via=share_profile)!
 - 🏕️ In my free time I love the [outdoors](https://maps.app.goo.gl/QbvpVnF2UMmkx4Fq6), being active, as well as connecting with friends and family.
